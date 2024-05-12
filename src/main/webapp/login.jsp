@@ -40,7 +40,7 @@
 					</div>
 					
 					<div class="card-body" > 
-						<form action="login" method="post" >
+						<form action="Login" method="post" >
 							
 							<div class="mb-3">
 								<label>Email</label>

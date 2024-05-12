@@ -40,7 +40,7 @@
 					</div>
 					
 					<div class="card-body" > 
-						<form action="register" method="post" >
+						<form action="Register" method="post" >
 							<div class="mb-3">
 								<label>Entrer votre nom complet</label>
 								<input type="fullName" class="form-control" name="fullName" id="fullName" placeholder="nom et prenom" required>
